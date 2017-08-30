@@ -1,0 +1,16 @@
+{
+  "name": "check_readmes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/github": "^7.1.0",
+    "@types/node-fetch": "^1.6.7",
+    "@types/underscore": "^1.8.0",
+    "node-fetch": "^1.6.3",
+    "prettier": "prettier/prettier",
+    "ts-node": "^3.0.2",
+    "typescript": "^2.2.2",
+    "underscore": "^1.8.3"
+  }
+}
